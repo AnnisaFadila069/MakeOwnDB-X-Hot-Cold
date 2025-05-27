@@ -1,5 +1,6 @@
 # Ignore class files
 *.class
+*.Identifier
 
 # Ignore bin directory
 bin/
