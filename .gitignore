@@ -1,11 +1,13 @@
 # Ignore class files
 *.class
-*.Identifier
+
+# Ignore all files in the lib directory (e.g., .jar, etc.)
+lib/
 
 # Ignore bin directory
 bin/
 
-# Optional: ignore build and other generated files
+# Ignore build and other generated files
 build/
 out/
 
